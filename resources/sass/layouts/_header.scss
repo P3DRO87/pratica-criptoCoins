@@ -1,0 +1,29 @@
+.navbar {
+  box-shadow: 0 0 17px;
+}
+.stupid-img {
+  max-width: 55px;
+}
+.loader {
+  margin-top: 10%;
+}
+
+.text-info {
+  padding-inline-start: 0px;
+}
+
+.stupid-img-v2 {
+  max-width: 70px;
+}
+
+.blaze87-github-icon {
+  font-size: 35px;
+  transition: ease 0.5s;
+  color: #6c757d;
+  &:hover {
+    transition: ease 0.5s;
+    color: #fff;
+    font-size: 40px;
+    transform: translateY(-20px);
+  }
+}
