@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "NODE_ENV=development webpack --display-error-details --colors --watch --watch-poll --hide-modules --progress"
   },
-  "author": "antonio flores",
+  "author": "Pedro Briceño",
   "license": "ISC",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
